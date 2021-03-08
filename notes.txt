@@ -1,0 +1,18 @@
+
+How to init a new github repo
+
+ git init
+ git remote add origin https://github.com/Ang3lino/template-test.git
+ git add .
+ git commit -m "initial commit"
+ git push origin master
+
+
+Good backgrounds
+https://www.heropatterns.com/
+
+Google fonts
+https://fonts.google.com/
+
+
+
